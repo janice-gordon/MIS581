@@ -1,0 +1,90 @@
+"Notes"	"Year"	"Year Code"	Deaths	Population	Crude Rate	Age Adjusted Rate	% of Total Deaths
+	"1999"	"1999"	65	27675490	0.2	0.2	0.3%
+	"2000"	"2000"	81	27820058	0.3	0.3	0.4%
+	"2001"	"2001"	106	28043707	0.4	0.4	0.5%
+	"2002"	"2002"	144	28243034	0.5	0.5	0.7%
+	"2003"	"2003"	173	28436704	0.6	0.6	0.8%
+	"2004"	"2004"	239	28648227	0.8	0.8	1.1%
+	"2005"	"2005"	182	28852252	0.6	0.6	0.9%
+	"2006"	"2006"	273	29069762	0.9	1.0	1.3%
+	"2007"	"2007"	270	29248550	0.9	0.9	1.3%
+	"2008"	"2008"	314	29435166	1.1	1.1	1.5%
+	"2009"	"2009"	297	29654916	1.0	1.0	1.4%
+	"2010"	"2010"	355	29829606	1.2	1.2	1.7%
+	"2011"	"2011"	356	30048274	1.2	1.2	1.7%
+	"2012"	"2012"	348	30238794	1.2	1.2	1.7%
+	"2013"	"2013"	452	30389522	1.5	1.5	2.2%
+	"2014"	"2014"	785	30534738	2.6	2.6	3.8%
+	"2015"	"2015"	1337	30654187	4.4	4.4	6.4%
+	"2016"	"2016"	3687	30676819	12.0	12.3	17.7%
+	"2017"	"2017"	5321	30799502	17.3	17.8	25.5%
+	"2018"	"2018"	6095	30842921	19.8	20.3	29.2%
+"Total"			20880	589142229	3.5	3.5	100.0%
+"---"
+"Dataset: Multiple Cause of Death, 1999-2018"
+"Query Parameters:"
+"Title: Overall - Age Adjusted - HHS Region 3 - T40.4"
+"HHS Regions: HHS Region #3 DE, DC, MD, PA, VA, WV"
+"MCD - ICD-10 Codes: T40.4 (Other synthetic narcotics)"
+"UCD - ICD-10 Codes: X40 (Accidental poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X41"
+"(Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not"
+"elsewhere classified); X42 (Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not"
+"elsewhere classified); X43 (Accidental poisoning by and exposure to other drugs acting on the autonomic nervous system); X44"
+"(Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X45 (Accidental"
+"poisoning by and exposure to alcohol); X60 (Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and"
+"antirheumatics); X61 (Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and"
+"psychotropic drugs, not elsewhere classified); X62 (Intentional self-poisoning by and exposure to narcotics and psychodysleptics"
+"[hallucinogens], not elsewhere classified); X63 (Intentional self-poisoning by and exposure to other drugs acting on the"
+"autonomic nervous system); X64 (Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and"
+"biological substances); Y10 (Poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics, undetermined"
+"intent); Y11 (Poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not"
+"elsewhere classified, undetermined intent); Y12 (Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens],"
+"not elsewhere classified, undetermined intent); Y13 (Poisoning by and exposure to other drugs acting on the autonomic nervous"
+"system, undetermined intent); Y14 (Poisoning by and exposure to other and unspecified drugs, medicaments and biological"
+"substances, undetermined intent)"
+"Group By: Year"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Standard Population: 2000 U.S. Std. Population"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Oct 25, 2020 10:56:41 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Multiple Cause of Death"
+"1999-2018 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2018, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/mcd-icd10.html on Oct 25, 2020 10:56:41 AM"
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"2. The populations used to calculate standard age-adjusted rates are documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2000 Standard Population."
+"3. The method used to calculate age-adjusted rates is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Age-Adjusted Rates."
+"4. Deaths for persons of unknown age are included in counts and crude rates, but are not included in age-adjusted rates."
+"5. The population figures for year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by NCHS on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for"
+"year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS"
+"on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The"
+"population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal"
+"series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013. Population figures for 2011 are"
+"bridged-race estimates of the July 1 resident population, from the county-level postcensal Vintage 2011 series released by NCHS"
+"on July 18, 2012. Population figures for 2010 are April 1 Census counts. The population figures for years 2001 - 2009, are"
+"bridged-race estimates of the July 1 resident population, from the revised intercensal county-level 2000 - 2009 series released"
+"by NCHS on October 26, 2012. Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the"
+"1990-1999 intercensal series of July 1 estimates. Population figures for Infant Age Groups are the number of live births."
+"<br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from previously published reports, due to"
+"use of the population estimates which were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group."
+"7. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."
